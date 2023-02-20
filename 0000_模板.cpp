@@ -1,4 +1,6 @@
 #include <iostream>
+#include <algorithm>
+#include <numeric>
 #include <time.h>
 #include <vector>
 using namespace std;
